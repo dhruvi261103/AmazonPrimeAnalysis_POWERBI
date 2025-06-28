@@ -49,4 +49,4 @@ Derive insights from streaming data
 
 Build a portfolio project for data analysis
 
-Here's my Dashboard: https://github.com/dhruvi261103/AmazonPrimeAnalysis_POWERBI/blob/main/AmazonPrimeAnalysis_snapshot.png
+
